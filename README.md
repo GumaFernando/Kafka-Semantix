@@ -10,8 +10,10 @@ em alta velocidade.
 um arquivo docker-compose e com isso foi possível fazer a utilização dos serviços necessários.
 
 - Desenvolvimento 
-inge
- Serviços em execução através do docker
+
+Serviços em execução utilizando o Docker
+
+![alt text](https://github.com/GumaFernando/Kafka_Atividade_semantix/blob/main/docker.PNG)
 
 1. Criar o tópico msg-cli com 2 partições e 1 réplica
 
