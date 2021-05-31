@@ -17,32 +17,47 @@ Serviços em execução utilizando o Docker
 
 1. Criar o tópico msg-cli com 2 partições e 1 réplica
 
+![alt text](https://github.com/GumaFernando/Kafka_Atividade_semantix/blob/main/1.png)
+
 2. Descrever o tópico msg-cli
 
+![alt text](https://github.com/GumaFernando/Kafka_Atividade_semantix/blob/main/2.png)
 
 3. Criar o consumidor do grupo app-cli
 
+![alt text](https://github.com/GumaFernando/Kafka_Atividade_semantix/blob/main/3.png)
+
 4. Enviar as seguintes mensagens do produtor > msg1 msg2
+
+![alt text](https://github.com/GumaFernando/Kafka_Atividade_semantix/blob/main/4.png)
 
 5. Criar outro consumidor do grupo app-cli
 
+![alt text](https://github.com/GumaFernando/Kafka_Atividade_semantix/blob/main/5.png)
 
 6. Enviar as seguintes mensagens do produtor > msg4 msg5 msg6 msg7
 
+![alt text](https://github.com/GumaFernando/Kafka_Atividade_semantix/blob/main/6.png)
 
 7. Criar outro consumidor do grupo app2-cli
 
+![alt text](https://github.com/GumaFernando/Kafka_Atividade_semantix/blob/main/7.png)
+
 
 8. Enviar as seguintes mensagens do produtor
+
+![alt text](https://github.com/GumaFernando/Kafka_Atividade_semantix/blob/main/8.png)
 
 9. Parar o app-cli
 
 CTRL + C
 
-
 10. Definir o deslocamento para -2 offsets do app-cli
 
+![alt text](https://github.com/GumaFernando/Kafka_Atividade_semantix/blob/main/10.png)
 
 11. Descrever grupo
 
-12. Iniciar o app-cli
+![alt text](https://github.com/GumaFernando/Kafka_Atividade_semantix/blob/main/11.png)
+
+
