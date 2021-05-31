@@ -1,12 +1,17 @@
 # Atividade realizada no Bootcamp de engenharia de dados oferecido pela empresa Semantix
 
-No módulo de Kafka Básico, foi proposta uma atividade para desenvolvermos,
+  No módulo de Kafka Básico, foi proposta uma atividade para desenvolvermos,
 para o entendimento do funcionamento do Apache Kafka, utilizando a Confluent.
+  O Apache Kafka é uma  plataforma de streaming distribuída  e escalável Open Source, que através dessa plataforma
+é capaz de publicar dados para qualquer número de sistemas ou aplicativos em tempo real, sendo possível ingerir trilhões de eventos por dia
+em alta velocidade.
 
-Foi utilizada para elaboração desta atividade a plataforma Docker, onde foi disponibilizado
+  Foi utilizada para elaboração desta atividade a plataforma Docker, onde foi disponibilizado
 um arquivo docker-compose e com isso foi possível fazer a utilização dos serviços necessários.
 
 - Desenvolvimento 
+inge
+ Serviços em execução através do docker
 
 1. Criar o tópico msg-cli com 2 partições e 1 réplica
 
