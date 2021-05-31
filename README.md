@@ -57,15 +57,20 @@ Serviços em execução utilizando o Docker
 
 ### APP CLI
 -- Verificando os dados chegando no (PRIMEIRO CONSUMIDOR) do grupo APP-CLI
+
 ![alt text](https://github.com/GumaFernando/Kafka_Atividade_semantix/blob/main/appcli.png)
 
 -- Verificando os dados chegando no (SEGUNDO CONSUMIDOR) do grupo APP-CLI
+
 ![alt text](https://github.com/GumaFernando/Kafka_Atividade_semantix/blob/main/appcli_b.png)
 
-### APP CLI 2
--- Verificando os dados chegando no consumidor do grupo APP-CLI
+### APP2 CLI 2
+-- Verificando os dados chegando no consumidor do grupo APP2-CLI
 
 ![alt text](https://github.com/GumaFernando/Kafka_Atividade_semantix/blob/main/appcli2.png)
+
+#### OBS: Foi possível notar que os 2 consumidores que estão no mesmo grupo APP-CLI, a mensagem recebida intercala entre os 2,
+#### já no consumidor que está no APP2-CLI os dados chegam completos
 
 ### 9. Parar o app-cli
 
