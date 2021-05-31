@@ -86,4 +86,5 @@ CTRL + C
 
 ![alt text](https://github.com/GumaFernando/Kafka_Atividade_semantix/blob/main/11.png)
 
-OBS: o LAG = 2 implica pelo fato de ter alterado o deslocamento para -2 do meu off set, então tem um total de 2 mensagens ainda para ser lida
+#### OBS: o LAG = 2 implica pelo fato de ter alterado o deslocamento para -2 do meu off set,
+#### então tem um total de 2 mensagens ainda para ser lida
