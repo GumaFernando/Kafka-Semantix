@@ -77,11 +77,13 @@ Serviços em execução utilizando o Docker
 CTRL + C
 
 ### 10. Definir o deslocamento para -2 offsets do app-cli
+-- Definindo o deslocamento para -2 do offsets do APP-CLI
 
 ![alt text](https://github.com/GumaFernando/Kafka_Atividade_semantix/blob/main/10.png)
 
 ### 11. Descrever grupo
+-- Verificando o grupo APP-CLI, possível notar que o current-offset está 3, porém existe um LAG = 2
 
 ![alt text](https://github.com/GumaFernando/Kafka_Atividade_semantix/blob/main/11.png)
 
-
+OBS: o LAG = 2 implica pelo fato de ter alterado o deslocamento para -2 do meu off set, então tem um total de 2 mensagens ainda para ser lida
