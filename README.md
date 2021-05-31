@@ -16,7 +16,7 @@ Serviços em execução utilizando o Docker
 ![alt text](https://github.com/GumaFernando/Kafka_Atividade_semantix/blob/main/docker.PNG)
 
 1. Criar o tópico msg-cli com 2 partições e 1 réplica
-  -- foi criado  um tópico chamado 'msg-cli' com 2 partições e 1 réplica
+# foi criado  um tópico chamado 'msg-cli' com 2 partições e 1 réplica #
 
 ![alt text](https://github.com/GumaFernando/Kafka_Atividade_semantix/blob/main/1.png)
 
