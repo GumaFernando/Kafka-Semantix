@@ -48,6 +48,16 @@ Serviços em execução utilizando o Docker
 
 ![alt text](https://github.com/GumaFernando/Kafka_Atividade_semantix/blob/main/8.png)
 
+APP CLI
+
+![alt text](https://github.com/GumaFernando/Kafka_Atividade_semantix/blob/main/appcli.png)
+
+![alt text](https://github.com/GumaFernando/Kafka_Atividade_semantix/blob/main/appcli_b.png)
+
+APP CLI 2
+
+![alt text](https://github.com/GumaFernando/Kafka_Atividade_semantix/blob/main/appcli2.png)
+
 9. Parar o app-cli
 
 CTRL + C
