@@ -9,7 +9,7 @@ em alta velocidade.
   Foi utilizada para elaboração desta atividade a plataforma Docker, onde foi disponibilizado
 um arquivo docker-compose e com isso foi possível fazer a utilização dos serviços necessários.
 
-- Desenvolvimento 
+## Desenvolvimento 
 
 Serviços em execução utilizando o Docker
 
