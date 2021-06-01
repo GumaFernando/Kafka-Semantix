@@ -50,7 +50,7 @@ Serviços em execução utilizando o Docker
 
 ![alt text](https://github.com/GumaFernando/Kafka_Atividade_semantix/blob/main/7.png)
 
-### 8. Enviar novaas seguintes mensagens do produtor
+### 8. Enviar novas mensagens do produtor
 -- Enviando novas mensagens do produtor
 
 ![alt text](https://github.com/GumaFernando/Kafka_Atividade_semantix/blob/main/8.png)
